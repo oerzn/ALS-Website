@@ -51,7 +51,7 @@ body {
 }
 .navbar-brand{
     height: 90px;
-    width: 120px;
+    width: 80px;
     display: flex;
 }
 .logo img{
