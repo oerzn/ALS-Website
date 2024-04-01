@@ -1,3 +1,9 @@
+// window.scrollBy({
+//     top: 100,   // Vertical amount (can be negative)
+//     left: 0,
+//     behavior: 'smooth'
+// });
+
 // Wait for the DOM to be fully loaded
 document.addEventListener("DOMContentLoaded", function () {
     // Get all elements with class "submenu"
