@@ -123,6 +123,11 @@ body {
     padding: 20px;
 }
 
+
+.dropdown-menu a:hover{
+    background-color: #4a8ffd;
+}
+
 /* Responsive Styles */
 @media only screen and (max-width: 768px) {
     nav {
