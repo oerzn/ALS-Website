@@ -172,18 +172,18 @@ body {
 }
 
 .timeline-steps .timeline-content .inner-circle {
-    border-radius: 1.5rem;
-    height: 1rem;
-    width: 1rem;
+    border-radius: rem;
+    height: 5rem;
+    width: 6rem;
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    background-color: #3b82f6
+    background-color: #e2e964
 }
 
 .timeline-steps .timeline-content .inner-circle:before {
     content: "";
-    background-color: #3b82f6;
+    background-color: #e72f2f;
     display: inline-block;
     height: 3rem;
     width: 3rem;
